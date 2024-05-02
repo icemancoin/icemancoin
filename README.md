@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icemancoin
 - 👀 I’m interested in termux, kali linux and ubuntu
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... in hackthebox
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me icemancoin89@gmail.com
 - 😄 Pronouns: brown77
