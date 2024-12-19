@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @icemancoin
+- 👋 Hi, I’m @iceman89
 - 👀 I’m interested in termux, kali linux and ubuntu
+- +info for Arduino S.O
 - 🌱 I’m currently learning ... in hackthebox
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me icemancoin89@gmail.com
-- 😄 Pronouns: brown77
+- 😄 Pronouns: iceman89
 - ⚡ Fun fact: ...
 
 <!---
